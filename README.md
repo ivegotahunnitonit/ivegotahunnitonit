@@ -11,7 +11,7 @@
 - **Non-Human Identity (NHI) & Cryptographic Attestations**: Ed25519 signed trajectory audit logging and zero-knowledge mesh attestations.
 - **Production Deployment**: Real-time telemetry dashboard and platform live at [acn-26670.web.app](https://acn-26670.web.app/).
 
-#### 2. Acoustic Cloak — Psychoacoustic Audio Shield
+#### 2. Cyphervoice (Acoustic Cloak Engine) — Real-Time Voice Privacy & Audio Camouflage
 - **Threat Model**: Defeats neural voice cloning (ECAPA-TDNN, WavLM, x-vectors, ElevenLabs, XTTS).
 - **Signal Processing Engine**: Real-time DSP (>50x real-time) injecting inaudible adversarial perturbations bounded by **Terhardt's Absolute Threshold of Hearing (ATH)** and **Zwicker Bark Critical Bands**.
 - **Empirical Defense**: Collapses neural clone similarity (< 0.40) while maintaining transparent human perceptual audio clarity (> 28 dB Spectral SNR).
