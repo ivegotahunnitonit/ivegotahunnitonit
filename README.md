@@ -9,7 +9,7 @@
 #### 1. Bartholomew Trust Protocol (BTP) — Agentic Runtime Protection (ARP)
 - **Sub-35µs In-Process AST Gating**: Ultra-low latency deterministic firewall intercepting tool calls, unauthorized shell execution, and secret leakage.
 - **Non-Human Identity (NHI) & Cryptographic Attestations**: Ed25519 signed trajectory audit logging and zero-knowledge mesh attestations.
-- **Production Deployment**: Real-time telemetry dashboard and platform live at [acn-26670.web.app](https://acn-26670.web.app/).
+- **Production Deployment**: Real-time telemetry dashboard and platform live at [https://bartholomew.info/).
 
 #### 2. Cyphervoice (Acoustic Cloak Engine) — Real-Time Voice Privacy & Audio Camouflage
 - **Threat Model**: Defeats neural voice cloning (ECAPA-TDNN, WavLM, x-vectors, ElevenLabs, XTTS).
